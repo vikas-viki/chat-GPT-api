@@ -1,7 +1,8 @@
 {
   "name": "gpt-server",
   "version": "1.0.0",
-  "description": "chat gpt sercer",
+  "description": "chat gpt server",
+  "keywords" : "ChatGPT_clone Backend Node js", 
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
